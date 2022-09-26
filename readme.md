@@ -1,6 +1,6 @@
 # Desafio 3 do Ignite Trilha NodeJS
 
-<img alt="Ignite" src="image.png" />
+<img alt="Ignite" src="https://raw.githubusercontent.com/lucas-eduardo/ignite-node-challenge01/main/.github/ignite.jpeg" />
 
 <h3 align="center">
   Desafio 03: Corrigindo o Código
@@ -94,10 +94,6 @@ yarn test
 yarn dev
 ```
 
-<p align="center">
-  <img src="./assets/yarn_test.jpg">
-</p>
-
 ### Template da aplicação
 
 Foi utilizado um modelo de template que possui o esqueleto do projeto.
@@ -108,9 +104,6 @@ O template pode ser encontrado na seguinte url: **[Acessar Template](https://git
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
-<p align="center">
-  <img  src="./assets/code_example.jpg">
-</p>
 
 ### Rotas da aplicação (Instruções)
 
